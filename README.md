@@ -23,7 +23,7 @@ I am attempting to compile a set of notebooks spanning the most essential calcul
 
 Two versions of each Notebook are available:
 > - A pure `julia` Notebook to download and run on your own reader. 
-> - A Colab Notebook which installs and sets the Colab kernel to `IJulia`. Might take a little longer to setup but has the versatility of Colab.
+> - A Colab Notebook which installs and sets the Colab kernel to `IJulia`. Might take a little longer to setup (< 3 mins) but has the versatility of Colab.
 
 The entire work has all core definitions in one source Notebook which is included in all others, check that Notebook for any definitions of functions you might be wondering about.
 
